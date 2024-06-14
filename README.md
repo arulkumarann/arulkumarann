@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arul</h1>
-<h3 align="center">A passionate AI & ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Arul Kumaran</h1>
+<h3 align="center">A passionate Deep Learning Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
