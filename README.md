@@ -1,8 +1,24 @@
-<h1 align="center">Hi, I'm Arul Kumaran</h1>
-<h3 align="center">A passionate Deep Learning Enthusiast</h3>
+# Hi I'm Arul👋 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arul-kumaran-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arul-kumaran-p/" height="30" width="40" /></a>
-</p>
+I'm a second-year Computer Science and Engineering student with a focus on Artificial Intelligence and Machine Learning.
 
+## 🚀 About Me
+
+- 🔭 I’m currently working on: **Computer Vision**
+- 🌱 I'm learning about: **Quantum Neural Networks**
+- 💬 Ask me about: **Machine Learning** or any of my projects!
+- 📫 How to reach me: **Discord** - arulkumaran
+
+
+
+📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/arul-kumaran-p" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" width="30" />
+</a>
+
+
+
+## 📊 Most Used Languages
+
+![Top Languages](https://gitmystat.vercel.app/top?theme=dark&username=arulkumarann&layout=default)
