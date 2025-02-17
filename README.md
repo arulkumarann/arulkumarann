@@ -4,7 +4,7 @@ I'm a second-year Computer Science and Engineering student with a focus on Artif
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Computer Vision**
+- 🔭 I’m currently working on: **RAG**
 - 🌱 I'm learning about: **AI Agents**
 - 💬 Ask me about: **Machine Learning** or any of my projects!
 - 📫 How to reach me: **Discord** - arulkumaran
