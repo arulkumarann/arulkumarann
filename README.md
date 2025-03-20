@@ -16,3 +16,11 @@ I'm a second-year Computer Science and Engineering student with a focus on Artif
 <a href="https://www.linkedin.com/in/arul-kumaran-p" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" width="30" />
 </a>
+
+<a href="https://x.com/arullkumarann" target="_blank">
+    <img src="x.jpeg" alt="Twitter" width="30" />
+</a>
+
+<a href="https://discord.com/invite/c7T88phr" target="_blank">
+    <img src="discord.png" alt="discord" width="30" />
+</a>
