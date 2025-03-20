@@ -18,7 +18,7 @@ I'm a second-year Computer Science and Engineering student with a focus on Artif
 </a>
 
 <a href="https://x.com/arullkumarann" target="_blank">
-    <img src="x.jpeg" alt="Twitter" width="30" />
+    <img src="x.jpg" alt="Twitter" width="30" />
 </a>
 
 <a href="https://discord.com/invite/c7T88phr" target="_blank">
