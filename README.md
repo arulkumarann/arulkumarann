@@ -16,9 +16,3 @@ I'm a second-year Computer Science and Engineering student with a focus on Artif
 <a href="https://www.linkedin.com/in/arul-kumaran-p" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" width="30" />
 </a>
-
-
-
-## 📊 Most Used Languages
-
-![Top Languages](https://gitmystat.vercel.app/top?theme=dark&username=arulkumarann&layout=default)
