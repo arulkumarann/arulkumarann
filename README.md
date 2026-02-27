@@ -15,7 +15,7 @@
 arul = {
     "focus"   : ["reinforcement learning", "deep learning", "ai agents"],
     "status"  : "breaking things, learning faster",
-    "reach"   : "discord → arulkumaran"
+    "reach"   : "twitter → arullkumarann"
 }
 ```
 
