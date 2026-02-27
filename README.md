@@ -7,7 +7,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-**pre-final year cs** · building ai agents · obsessed with rl
+**pre-final year cs** · building ai agents · obsessed with rl & rb :p
 
 ---
 
